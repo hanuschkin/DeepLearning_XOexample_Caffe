@@ -1,6 +1,6 @@
 # deep-learning-XOexample
-A brief and illustrative example how convolutional neural networks (CNNs) work:  
-Two simple image categories (X and O images) / Caffe &amp; Matlab
+A brief and illustrative example how convolutional neural networks (CNNs) work (Caffe implementation):  
+Two simple image categories (X and O images)
 
 The example is inspired by Brandon Rohrer's 'Data Science and Robots' blog. 
 
