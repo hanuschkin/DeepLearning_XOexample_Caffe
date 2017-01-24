@@ -1,4 +1,4 @@
-# deep-learning-XOexample
+# DeepLearning_XOexample_Caffe
 A brief and illustrative example how convolutional neural networks (CNNs) work (Caffe implementation):  
 Two simple image categories (X and O images)
 
